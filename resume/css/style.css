@@ -301,6 +301,14 @@ p {
   -webkit-font-smoothing: antialiased;
 }
 
+
+@media (max-height: 768px) {
+  .h2r {
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+}
+
 @media (min-width: 768px) {
   .h2r {
     font-size: 1.5rem;
