@@ -302,9 +302,9 @@ p {
 }
 
 
-@media (max-height: 768px) {
+@media (min-height: 900px) {
   .h2r {
-    font-size: 1.5rem;
+    font-size: 2rem;
     line-height: 1;
   }
 }
