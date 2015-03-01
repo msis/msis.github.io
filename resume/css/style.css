@@ -296,21 +296,21 @@ p {
 }
 
 .h2r {
-  font-size: .8rem;
+  font-size: 1rem;
   line-height: 1.125;
   -webkit-font-smoothing: antialiased;
 }
 
 @media (min-width: 768px) {
   .h2r {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     line-height: 1;
   }
 }
 
 @media (min-width: 1152px) {
   .h2r {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
 }
 
