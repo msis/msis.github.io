@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamed Saad Ibn Seddik</title>
+    <link>https://msis.github.io/categories/about/index.xml</link>
+    <description>Recent content on Mohamed Saad Ibn Seddik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://msis.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Who am I?</title>
+      <link>https://msis.github.io/about/</link>
+      <pubDate>Tue, 08 Nov 2016 10:43:50 -0500</pubDate>
+      
+      <guid>https://msis.github.io/about/</guid>
+      <description>&lt;p&gt;My name is &lt;strong&gt;Mohamed Saad Ibn Seddik&lt;/strong&gt;.
+I am passionate about &lt;em&gt;science&lt;/em&gt; and &lt;em&gt;technology&lt;/em&gt; for as long as I can remember.
+I have an &lt;em&gt;engineering degree&lt;/em&gt; in &lt;strong&gt;Robotics&lt;/strong&gt; and a &lt;em&gt;Ph.D.&lt;/em&gt; in &lt;strong&gt;Autonomy and Localization for Underwater Vehicles&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Currently, I am working as a &lt;em&gt;postdoctoral researcher&lt;/em&gt; at &lt;strong&gt;MIT&lt;/strong&gt;.
+I set up the game mechanics for a human-robot competition &lt;a href=&#34;http://oceanai.mit.edu/aquaticus/pmwiki/pmwiki.php&#34;&gt;Aquaticus&lt;/a&gt;.
+The idea is to have humans and robots play as teammates a &lt;em&gt;capture the flag game&lt;/em&gt;.
+I am also developing an &lt;em&gt;online course&lt;/em&gt; for students, and curious individuals in general, to learn about the the &lt;strong&gt;&lt;a href=&#34;http://themoos.org&#34;&gt;MOOS&lt;/a&gt;&lt;/strong&gt; robotics middleware.&lt;/p&gt;
+
+&lt;p&gt;I am interested in &lt;strong&gt;software architecture&lt;/strong&gt; for &lt;strong&gt;robotics&lt;/strong&gt;, &lt;strong&gt;autonomous vehicles&lt;/strong&gt;, &lt;strong&gt;machine learning&lt;/strong&gt;, &lt;strong&gt;artificial intelligence&lt;/strong&gt; and &lt;strong&gt;interval analysis&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

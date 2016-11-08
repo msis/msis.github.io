@@ -1,0 +1,66 @@
+## Basic Configuration
+
+baseurl = "https://msis.github.io/" #Example "https://<you>.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "../"
+
+author = "Mohamed Saad Ibn Seddik"
+title = "Mohamed Saad Ibn Seddik"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "<yourDisqusShortName>" # Comment out to disable Disqus.
+googleAnalytics = "UA-87051821-1"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Mohamed Saad Ibn Seddik"
+intro = "Ph.D. in Localization and Autonomy for Underwater Vehciles"
+description = "Now postdoc @MIT working on autonomous marine vehicles. Previously project engineer @CGG. <br/> Innovation and Technology enthusiat."
+authorImage = "headshot.jpg"
+dateFormat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Mohamed Saad Ibn Seddik presentation page"
+keywords = "mohamed,saad,ibn,seddik,cv,resume,presentaion,Technology,Innovation,startup,mit,cgg,ensta"
+
+## Social Accounts
+[params.social]
+github = "msis"
+# instagram = "<username>"
+linkedIn = "msibnseddik/en"
+twitter = "msibnseddik"
+# facebook = "<username>"
+# google = "<username>"
+email = "ms.ibnseddik@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2016. Mohamed Saad Ibn Seddik. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredBy = false
+hightlightJS = false
+
+## Main Menu
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 100
+url = "/about/"
+# [[menu.main]]
+#     name = "blog"
+#     weight = 200
+#     identifier = "blog"
+#     url = "/blog/"
+# [[menu.main]]
+    # name = "coderag"
+    # identifier = "coderag"
+    # weight = 300
+    # url = "/coderag/"
