@@ -50,15 +50,15 @@ hightlightJS = false
 
 ## Main Menu
 [[menu.main]]
-name = "about"
-identifier = "about"
-weight = 100
-url = "/about/"
-# [[menu.main]]
-#     name = "blog"
-#     weight = 200
-#     identifier = "blog"
-#     url = "/blog/"
+    name = "about"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
+    name = "academic"
+    weight = 200
+    identifier = "academic"
+    url = "https://msis.github.io/academic"
 # [[menu.main]]
     # name = "coderag"
     # identifier = "coderag"
